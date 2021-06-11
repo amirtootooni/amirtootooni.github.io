@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+order: 4
 ---
 
 I'm fruit lover based in beautiful Vancouver British Columbia.

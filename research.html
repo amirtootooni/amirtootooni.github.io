@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Thoughts worth writing
-order: 5
+title: Research
+order: 1
 ---
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if post.type == "blog" %}
+  {% if post.type == "research" %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
@@ -16,7 +16,7 @@ order: 5
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.excerpt }}
+    {{ post }}
   </div>
   {% endif %}
   {% endfor %}

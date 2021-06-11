@@ -1,22 +1,23 @@
 ---
 layout: page
 title: What I'm currently playing
+order: 7
 ---
 
 <div class="posts">
-    {% for post in site.posts %}
-    {% if post.type == "game" %}
-    <div class="post">
-      <h1 class="post-title">
-        <a href="{{ post.url | absolute_url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-  
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-  
-      {{ post.excerpt }}
-    </div>
-    {% endif %}
-    {% endfor %}
+  {% for post in site.posts %}
+  {% if post.type == "game" %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.excerpt }}
+  </div>
+  {% endif %}
+  {% endfor %}
 </div>

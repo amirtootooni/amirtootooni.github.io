@@ -12,9 +12,6 @@ author:
   url:               https://www.linkedin.com/in/amir-tootooni-9a824220a/
   email:             tootooniamirhossein@gmail.com
 
-# Gems
-plugins:
-  - jekyll-paginate
 
 # Custom vars
 version:             1.0.1
