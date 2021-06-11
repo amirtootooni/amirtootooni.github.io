@@ -2,7 +2,7 @@
 title:               Amir Tootooni
 tagline:             'Graduate Student'
 description:         'A personal website made at the behest of my friends as per my non-existent online footprint.'
-url:                 #https://tootooni.ca
+url:                 https://tootooni.ca
 baseurl:             ''
 permalink:           pretty
 
