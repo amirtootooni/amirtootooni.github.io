@@ -1,6 +1,21 @@
-theme: jekyll-theme-minimal
+# Setup
+title:               Amir Tootooni
+tagline:             'Graduate Student'
+description:         'A personal website made at the behest of my friends as per my non-existent online footprint.'
+url:                 https://tootooni.ca
+baseurl:             ''
+permalink:           pretty
 
+# About/contact
+author:
+  name:              Amir Tootooni
+  url:               https://www.linkedin.com/in/amir-tootooni-9a824220a/
+  email:             tootooniamirhossein@gmail.com
 
-collections:
-  authors:
-    output: true
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.1
+google_analytics_id: #UA-XXXX-Y

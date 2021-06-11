@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 title: About
 ---
-# About page
 
-This page tells you a little bit about me.
+I'm fruit lover based in beautiful Vancouver British Columbia.
+
+Thanks for checking out my website!
+

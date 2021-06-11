@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Amir
+title: Favorite Fruits
+type: blog
 ---
 
 Like my late grandfather, I eat a lot of fruits. Maybe about 500g every day. 
