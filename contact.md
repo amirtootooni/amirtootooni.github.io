@@ -4,7 +4,14 @@ title: Contact Me
 order: 4
 ---
 
-I'm fruit lover based in beautiful Vancouver British Columbia.
+You can email me at
 
-Thanks for checking out my website!
+`tootooni (splotch) cs (dot) ubc (dot) ca`
 
+**or** 
+
+`tootooni98 (splotch) gmail (dot) com`
+
+If email isn't your thing, maybe you decide to message me at any of the social media links in the side bar.
+
+Thanks for checking out my website! I wish you all the best.
