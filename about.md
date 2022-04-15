@@ -1,10 +1,10 @@
 ---
 layout: page
-title: This Website
+title: About this website
 order: 8
 ---
 
-Through the advice of my good friend [Abbas](https://www.abbask.com/), I got the domain for this site on [GoDaddy](https://ca.godaddy.com/), and used [GitHub Pages](https://pages.github.com/) to host a static website built by [Jekyll](https://jekyllrb.com/).
+Through the advice of my friend [Abbas](https://www.abbask.com/), I got the domain for this site on [GoDaddy](https://ca.godaddy.com/), and used [GitHub Pages](https://pages.github.com/) to host a static website built by [Jekyll](https://jekyllrb.com/).
 
 I based this website on the [Lanyon](https://lanyon.getpoole.com/) Jekyll theme, but added some more things to it. It was surprising to me how easy it was to make a *decent* website.
 

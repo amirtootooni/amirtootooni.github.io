@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Contact Me
-order: 4
+title: Contact
+order: 7
 ---
 
 You can email me at
 
-`tootooni (splotch) cs (dot) ubc (dot) ca`
+`tootooni (splotch) student (dot) ubc (dot) ca`
 
 **or** 
 

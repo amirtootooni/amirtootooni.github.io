@@ -4,7 +4,7 @@ title: Favorite Fruits
 type: blog
 ---
 
-Like my late grandfather, I eat a lot of fruits. Maybe about 500g every day. 
+Like my late grandfather, I eat a lot of fruits; maybe about 500g every day. 
 
 If I were to list my favorite ones this would be my list (at the time of this post):
 
